@@ -134,9 +134,9 @@
   <string name="show_firewall_notification">Tampilkan pemberitahuan firewall</string>
   <string name="show_notification">Tampilkan pemberitahuan</string>
   <string name="smart_antispam">Nomor yang tidak dikenal terdeteksi</string>
-  <string name="turn_on_smart_antispam_hint">After enabling numbers will be identified, label help to determine fraudulent calls.</string>
-  <string name="turn_on_smart_antispam_summary_off">Query local number database</string>
-  <string name="turn_on_smart_antispam_summary_on">Only works on Wi-Fi and 3G networks</string>
-  <string name="turn_on_smart_antispam_title">Identify unknown numbers</string>
-  <string name="whitelist_tab_title">White list</string>
+  <string name="turn_on_smart_antispam_hint">Setelah diaktifkan, nomor akan diidentifikasi, penandaan akan membantu untuk menentukan panggilan palsu.</string>
+  <string name="turn_on_smart_antispam_summary_off">Query database nomor lokal</string>
+  <string name="turn_on_smart_antispam_summary_on">Hanya berfungsi pada Wi-Fi dan jaringan 3G</string>
+  <string name="turn_on_smart_antispam_title">Identifikasi nomor tidak dikenal</string>
+  <string name="whitelist_tab_title">Daftar putih</string>
 </resources>
