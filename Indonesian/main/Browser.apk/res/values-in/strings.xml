@@ -98,15 +98,15 @@
   <string name="clear">Hapus</string>
   <string name="clear_history">Hapus riwayat</string>
   <string name="containing_folder">Tambahkan ke</string>
-  <string name="contextheader_folder_bookmarkcount" formatted="false">%d bookmarks</string>
-  <string name="contextheader_folder_empty">Empty folder</string>
-  <string name="contextmenu_add_contact">Add contact</string>
-  <string name="contextmenu_copy">Copy</string>
-  <string name="contextmenu_copylink">Copy link URL</string>
-  <string name="contextmenu_dial_dot">Dial…</string>
-  <string name="contextmenu_download_image">Save image</string>
-  <string name="contextmenu_download_image_as">Save image as</string>
-  <string name="contextmenu_map">Map</string>
+  <string name="contextheader_folder_bookmarkcount" formatted="false">%d penyimpanan</string>
+  <string name="contextheader_folder_empty">Kosongkan folder</string>
+  <string name="contextmenu_add_contact">Tambah kontak</string>
+  <string name="contextmenu_copy">Salin</string>
+  <string name="contextmenu_copylink">Salin tautan URL</string>
+  <string name="contextmenu_dial_dot">Memanggil…</string>
+  <string name="contextmenu_download_image">Simpan gambar</string>
+  <string name="contextmenu_download_image_as">Simpan gambar sebagai</string>
+  <string name="contextmenu_map">Peta</string>
   <string name="contextmenu_openlink">Open</string>
   <string name="contextmenu_openlink_newwindow">Open in new tab</string>
   <string name="contextmenu_openlink_newwindow_background">Open in new background tab</string>
