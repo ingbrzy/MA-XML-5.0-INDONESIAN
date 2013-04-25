@@ -952,16 +952,16 @@
         <item>5</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Page up/down</item>
-        <item>Switch window</item>
+        <item>Halaman atas/bawah</item>
+        <item>Ganti window</item>
     </string-array>
     <string-array name="pref_volume_key_values">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
-        <item>Page forward/backward</item>
-        <item>Switch window</item>
+        <item>Halaman maju/mundur</item>
+        <item>Ganti window</item>
     </string-array>
     <string-array name="pref_fling_on_border_values">
         <item>0</item>
