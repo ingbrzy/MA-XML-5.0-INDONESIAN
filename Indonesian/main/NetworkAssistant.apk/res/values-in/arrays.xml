@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_of_traffic">
-        <item>Traffic yesterday</item>
-        <item>Traffic today</item>
-        <item>Traffic this month</item>
+        <item>Traffic kemarin</item>
+        <item>Traffic hari ini</item>
+        <item>Traffic bulan ini</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Yesterday on 2G/3G</item>
-        <item>Today on 2G/3G</item>
-        <item>This month on 2G/3G</item>
-        <item>Yesterday on Wi-Fi</item>
-        <item>Today on Wi-fi</item>
-        <item>This month on Wi-Fi</item>
+        <item>Kemarin di 2G/3G</item>
+        <item>Hari ini di 2G/3G</item>
+        <item>Bulan ini di 2G/3G</item>
+        <item>Kemarin di Wi-Fi</item>
+        <item>Hari ini di Wi-fi</item>
+        <item>Bulan ini di Wi-Fi</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Yesterday 2G/3G</item>
-        <item>Today 2G/3G</item>
-        <item>This month 2G/3G</item>
+        <item>Kemarin 2G/3G</item>
+        <item>Hari ini 2G/3G</item>
+        <item>Bulan ini 2G/3G</item>
     </string-array>
     <string-array name="traffic_uints">
         <item>" B"</item>
