@@ -13,7 +13,7 @@
   <string name="err_type_data_lost">Kehilangan Data</string>
   <string name="err_type_force_close">Paksa Tutup</string>
   <string name="err_type_network">Isu Jaringan</string>
-  <string name="err_type_others">Lainnya<string>
+  <string name="err_type_others">Lainnya</string>
   <string name="err_type_power_consuming">Penggunaan Daya</string>
   <string name="err_type_reboot">Sistem Reboot</string>
   <string name="err_type_suggestion">Saran</string>
