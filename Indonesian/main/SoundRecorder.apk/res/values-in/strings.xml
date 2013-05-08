@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_record">Do you want to delete selected record?</string>
-  <string name="app_name">Recorder</string>
-  <string name="audio_db_album_name">Audio recordings</string>
-  <string name="audio_db_artist_name">Your recordings</string>
-  <string name="audio_db_playlist_name">My recordings</string>
+  <string name="alert_message_delete_record">Apakah anda ingin menghapus rekaman?</string>
+  <string name="app_name">Perekam</string>
+  <string name="audio_db_album_name">Rekaman suara</string>
+  <string name="audio_db_artist_name">Rekaman anda</string>
+  <string name="audio_db_playlist_name">Rekaman saya</string>
   <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="button_ok">OK</string>
-  <string name="call_record">Record Call(%d)</string>
-  <string name="call_record_or">or</string>
-  <string name="default_record_name">Untitled recording</string>
-  <string name="delete">Delete</string>
+  <string name="call_record">Rekaman panggilan(%d)</string>
+  <string name="call_record_or">atau</string>
+  <string name="default_record_name">Perekam tanpa judul</string>
+  <string name="delete">Hapus</string>
   <string name="delete_dialog_message">Do you want to delete current recording?</string>
   <string name="deleting_message">Deleting...</string>
   <string name="dialog_content_storage_full">Due to lack of storage space, recording was forced to stop. Remove unnecessary files through the File Explorer, would you like to open it now?</string>
