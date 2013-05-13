@@ -9,7 +9,7 @@
   <string name="add_weibo_account">Tambah Akun</string>
   <string name="alert_title_remove_account">Hapus Akun</string>
   <string name="app_name">Xiaomi Services Framework</string>
-  <string name="bad_authentication">Otentikasi gagal, kesalahan dalam username atau passwordstring>
+  <string name="bad_authentication">Otentikasi gagal, kesalahan dalam username atau password</string>
   <string name="balance">Balance: %1$s Mi credits</string>
   <string name="bind">Otorisasi</string>
   <string name="bind_description">Izinkan untuk mensinkronisasi dengan kontak telepon</string>
