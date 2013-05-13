@@ -1,41 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Search</string>
+  <string name="app_name">Pencarian</string>
   <string name="apps_search_activity"/>
-  <string name="clear_shortcuts">Clear shortcuts</string>
-  <string name="clear_shortcuts_agree">Clear shortcuts</string>
-  <string name="clear_shortcuts_disagree">"Don't clear shortcuts"</string>
-  <string name="clear_shortcuts_prompt">"This will clear all shortcuts and recently chosen search suggestions. (To clear your Browser history, use the Browser's settings.)"</string>
-  <string name="clear_shortcuts_summary">Clear shortcuts and recently chosen search suggestions</string>
-  <string name="corpus_description_apps">Names of installed applications</string>
-  <string name="corpus_description_web">Web search, bookmarks and browser history</string>
-  <string name="corpus_hint_apps">Search Apps</string>
-  <string name="corpus_label_apps">Apps</string>
-  <string name="corpus_label_global">All</string>
+  <string name="clear_shortcuts">Hapus shortcut</string>
+  <string name="clear_shortcuts_agree">Hapus shortcut</string>
+  <string name="clear_shortcuts_disagree">"Jangan hapus shortcut"</string>
+  <string name="clear_shortcuts_prompt">"Hal ini akan menghapus semua shortcut dan saran pencarian yang dipilih. (Untuk menghapus riwayat Browser, gunakan pengaturan di Browser.)"</string>
+  <string name="clear_shortcuts_summary">Hapus shortcut dan saran pencarian yang dipilih</string>
+  <string name="corpus_description_apps">Nama dari aplikasi yang diinstal</string>
+  <string name="corpus_description_web">Pencarian web, bookmarks dan riwayat browser</string>
+  <string name="corpus_hint_apps">Mencari aplikasi</string>
+  <string name="corpus_label_apps">Aplikasi</string>
+  <string name="corpus_label_global">Semua</string>
   <string name="corpus_label_web">Web</string>
-  <string name="corpus_selection_heading">Search</string>
+  <string name="corpus_selection_heading">Cari</string>
   <string name="default_search_domain">.google.com</string>
-  <string name="device_settings_category_title">Clear shortcuts</string>
-  <string name="google_app_label">Google Search</string>
+  <string name="device_settings_category_title">Hapus shortcut</string>
+  <string name="google_app_label">Pencarian Google</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
-  <string name="google_search_description">Google Search suggestions</string>
-  <string name="google_search_hint">Google Search</string>
+  <string name="google_search_description">Saran Pencarian Google</string>
+  <string name="google_search_hint">Pencarian Google</string>
   <string name="google_search_label">Google</string>
-  <string name="google_settings_category_title">Google Search</string>
+  <string name="google_settings_category_title">Pencarian Google</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
-  <string name="menu_help">Help</string>
-  <string name="menu_settings">Search settings</string>
-  <string name="remove_from_history">Remove from search history</string>
-  <string name="remove_from_history_failed">"Couldn't remove item from history"</string>
-  <string name="search_in_app_store">Search market</string>
-  <string name="search_in_web">Search web</string>
-  <string name="search_settings">Search settings</string>
-  <string name="search_sources">Searchable items</string>
-  <string name="search_sources_summary">Choose what to search on the phone</string>
-  <string name="search_widget">Search</string>
-  <string name="system_search_category_title">Phone</string>
+  <string name="menu_help">Bantuan</string>
+  <string name="menu_settings">Pengaturan Pencarian</string>
+  <string name="remove_from_history">Hapus dari riwayat pencarian</string>
+  <string name="remove_from_history_failed">"Tidak dapat menghapus item dari riwayat"</string>
+  <string name="search_in_app_store">Pencarian market</string>
+  <string name="search_in_web">Pencarian web</string>
+  <string name="search_settings">Pengaturan pencarian</string>
+  <string name="search_sources">Item yang dapat dicari</string>
+  <string name="search_sources_summary">Pilih apa yang dicari pada telepon</string>
+  <string name="search_widget">Cari</string>
+  <string name="system_search_category_title">Telepon</string>
   <string name="voice_search_hint_quotation_end">”</string>
   <string name="voice_search_hint_quotation_start">“</string>
-  <string name="voice_search_hint_title">Try saying:</string>
+  <string name="voice_search_hint_title">Coba katakan:</string>
 </resources>
