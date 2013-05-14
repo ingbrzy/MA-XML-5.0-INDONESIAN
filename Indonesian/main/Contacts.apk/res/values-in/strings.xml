@@ -184,7 +184,7 @@ Jika anda menggunakan layanan sinkronisasi, info kontak yang berada di cloud aka
   <string name="contactsList">Kontak</string>
   <string name="contacts_unavailable_add_account">Masuk ke akun</string>
   <string name="contacts_unavailable_create_contact">Buat kontak baru</string>
-  <string name="contacts_unavailable_import_contacts">Impor kontak dari file/string>
+  <string name="contacts_unavailable_import_contacts">Impor kontak dari file</string>
   <string name="copy_text">Gandakan ke clipboard</string>
   <string name="createContactShortcutSuccessful">Kontak widget ditambahkan ke layar Home.</string>
   <string name="create_group_dialog_title">Buat grup baru</string>
