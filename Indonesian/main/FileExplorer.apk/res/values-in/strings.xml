@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">"Migrating user data, your account will be temporarily locked, please wait..."</string>
-  <string name="add_task">Add task</string>
-  <string name="adding_upload_tasks">Adding upload tasks.</string>
+  <string name="account_bind_prompt">"Memindahkan data pengguna, akun anda akan dikunci secara temporer, mohon untuk menunggu..."</string>
+  <string name="add_task">Tambah tugas</string>
+  <string name="adding_upload_tasks">Menambahkan tugas untuk upload.</string>
   <string name="app_cache_cleanup_indication">%s cache</string>
   <string name="app_cache_title">App cache</string>
-  <string name="app_garbage_cleanup_indication">%s app junk</string>
-  <string name="app_garbage_path">Location:</string>
-  <string name="app_garbage_title">App junk</string>
+  <string name="app_garbage_cleanup_indication">%s app sampah</string>
+  <string name="app_garbage_path">Lokasi:</string>
+  <string name="app_garbage_title">App sampah</string>
   <string name="app_name">File Explorer</string>
   <string name="application_size_label">App</string>
-  <string name="background">Download in background</string>
+  <string name="background">Download di background</string>
   <string name="bind_account">Bind to MiDrive account</string>
   <string name="bind_account_summary">If you already have a MiDrive account you can add it to retrieve your personal data</string>
   <string name="binded_accout_description">Accounts are merged, use either your Xiaomi account or MiDrive account to login, both can read your data</string>
