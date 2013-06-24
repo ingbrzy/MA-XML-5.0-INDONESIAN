@@ -11,8 +11,8 @@
   <string name="app_name">File Explorer</string>
   <string name="application_size_label">App</string>
   <string name="background">Download di background</string>
-  <string name="bind_account">Bind to MiDrive account</string>
-  <string name="bind_account_summary">If you already have a MiDrive account you can add it to retrieve your personal data</string>
+  <string name="bind_account">Ikat ke akun MiDrive</string>
+  <string name="bind_account_summary">Jika anda telah memiliki akun MiDrive, anda dapat menambahkannya untuk mengembalikan data pribadi anda</string>
   <string name="binded_accout_description">Accounts are merged, use either your Xiaomi account or MiDrive account to login, both can read your data</string>
   <string name="binded_accout_title">MiDrive account</string>
   <string name="cache_size_label">Cache</string>
