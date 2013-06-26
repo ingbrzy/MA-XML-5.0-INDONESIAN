@@ -13,7 +13,7 @@
   <string name="background">Download di background</string>
   <string name="bind_account">Ikat ke akun MiDrive</string>
   <string name="bind_account_summary">Jika anda telah memiliki akun MiDrive, anda dapat menambahkannya untuk mengembalikan data pribadi anda</string>
-  <string name="binded_accout_description">Accounts are merged, use either your Xiaomi account or MiDrive account to login, both can read your data</string>
+  <string name="binded_accout_description">Akun digabungkan, gunakan akun Xiaomi atau akun MiDrive untuk login, keduanya dapat membaca data anda</string>
   <string name="binded_accout_title">MiDrive account</string>
   <string name="cache_size_label">Cache</string>
   <string name="cancel">Cancel</string>
