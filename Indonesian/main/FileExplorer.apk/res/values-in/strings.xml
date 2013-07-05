@@ -100,23 +100,23 @@
   <string name="ftp_password_hint">Password</string>
   <string name="ftp_port_number">Port</string>
   <string name="ftp_transfer_secure">Amankan pemindahan FTP</string>
-  <string name="ftp_username_and_passworld">Username and password</string>
+  <string name="ftp_username_and_passworld">Username dan password</string>
   <string name="ftp_username_hint">Username</string>
   <string name="garbage_size_metric">"%s
-Junk"</string>
-  <string name="gbk_summary">If you are using GBK encoding, e.g. Windows Explorer, choose this type of encoding to avoid garbled Chinese text</string>
+Sampah"</string>
+  <string name="gbk_summary">Jika anda menggunakan GBK encoding, contoh : Windows Explorer, pilih jenis ini untuk meng-encoding untuk menghindari teks Cina yang kacau</string>
   <string name="gbk_title">GBK</string>
-  <string name="give_up_cleaning">Cancel clean-up</string>
-  <string name="header_text_cleaned">Deleted junk</string>
-  <string name="header_text_cleaning">Cleaning junk left over</string>
-  <string name="header_text_scanned">Junk files found for deletion</string>
-  <string name="header_text_scanning">Scanning junk files…</string>
-  <string name="instruction">Enter the following address into your FTP Client:</string>
-  <string name="instruction_pre">Start service to enable FTP server</string>
-  <string name="item_name">No name</string>
-  <string name="kuaipan_over_space">Your MiDrive has no space left.</string>
-  <string name="kuaipan_prompt">MiDrive Help</string>
-  <string name="kuaipan_prompt_message">"The server is currently unavailable, please try again later"</string>
+  <string name="give_up_cleaning">Batal membersihkan</string>
+  <string name="header_text_cleaned">Hapus sampah</string>
+  <string name="header_text_cleaning">Menghapus sampah yang tertinggal</string>
+  <string name="header_text_scanned">File sampah yang akan dihapus telah ditemukan</string>
+  <string name="header_text_scanning">Men-scan file sampah…</string>
+  <string name="instruction">Masukkan alamat berikut ke FTP client anda:</string>
+  <string name="instruction_pre">Memulai jasa untuk mengaktifkan server FTP</string>
+  <string name="item_name">Tidak ada nama</string>
+  <string name="kuaipan_over_space">MiDrive anda tidak memiliki ruang kosong.</string>
+  <string name="kuaipan_prompt">MiDrive Bantuan</string>
+  <string name="kuaipan_prompt_message">"Server sedang tidak dapat digunakan, mohon coba lagi nanti"</string>
   <string name="kuaipan_tech_support">Technical support provided by Xiaomi</string>
   <string name="load_err">Loading failed</string>
   <string name="loading">Loading…</string>
