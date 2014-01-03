@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_ringtone_repeat">
-        <item>Once</item>
-        <item>Twice</item>
-        <item>Three times</item>
-        <item>Five times</item>
-        <item>Ten times</item>
+        <item>Sekali</item>
+        <item>Dua kali</item>
+        <item>Tiga kali</item>
+        <item>Lima kali</item>
+        <item>Sepuluh kali</item>
     </string-array>
 </resources>
