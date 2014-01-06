@@ -13,7 +13,7 @@
   <string name="alert_message_initial_cloud">Sistem akan otomatis mengupload foto baru, lama dan screenshot hanya jika terhubung dengan Wi-Fi.</string>
   <string name="alert_message_open_sync">Harus di sinkronkan, inginkah anda menyinkronkannya sekarang?</string>
   <string name="aperture">Aperture</string>
-  <string name="app_name">Galleri</string>
+  <string name="app_name">Galeri</string>
   <string name="appwidget_empty_text">Tidak ada foto.</string>
   <string name="appwidget_title">Galeri foto</string>
   <string name="auto">Auto</string>
