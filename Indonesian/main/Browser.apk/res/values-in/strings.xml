@@ -109,7 +109,7 @@
   <string name="contextmenu_map">Peta</string>
   <string name="contextmenu_openlink">Buka</string>
   <string name="contextmenu_openlink_newwindow">Buka di tab baru</string>
-  <string name="contextmenu_openlink_newwindow_background">Buka di tab background baru</string>
+  <string name="contextmenu_openlink_newwindow_background">Buka tab baru di background</string>
   <string name="contextmenu_savelink">Simpan tautan</string>
   <string name="contextmenu_send_mail">Kirim email</string>
   <string name="contextmenu_set_wallpaper">Set sebagai wallpaper</string>
