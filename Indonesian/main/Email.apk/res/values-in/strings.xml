@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account">Account</string>
-  <string name="account_delete_dlg_instructions_fmt">The account \"%s\" will be removed from E-mail.</string>
-  <string name="account_delete_dlg_title">Remove account</string>
-  <string name="account_duplicate_dlg_message_fmt">"You're already using this username for the account \"%s\"."</string>
-  <string name="account_duplicate_dlg_title">Duplicate account</string>
-  <string name="account_error">Failed to retrieve account information.</string>
-  <string name="account_folder_list_summary_drafts">Drafts</string>
-  <string name="account_folder_list_summary_inbox">Inbox</string>
-  <string name="account_folder_list_summary_outbox">Outbox</string>
-  <string name="account_folder_list_summary_starred">Starred</string>
-  <string name="account_name_display_all">All accounts</string>
-  <string name="account_out_of_quota">Account is out of disk quota</string>
-  <string name="account_password_spaces_error">"This password starts or ends with one or more space characters. Many servers don't support passwords with spaces."</string>
+  <string name="account">Akun</string>
+  <string name="account_delete_dlg_instructions_fmt">Akun \"%s\" akan dihapus dari email.</string>
+  <string name="account_delete_dlg_title">Hapus akun</string>
+  <string name="account_duplicate_dlg_message_fmt">"Anda telah menggunakan nama ini untuk akun \"%s\"."</string>
+  <string name="account_duplicate_dlg_title">Akun ganda</string>
+  <string name="account_error">Gagal untuk mengembalikan informasi akun.</string>
+  <string name="account_folder_list_summary_drafts">Konsep</string>
+  <string name="account_folder_list_summary_inbox">Kotak masuk</string>
+  <string name="account_folder_list_summary_outbox">Kotak keluar</string>
+  <string name="account_folder_list_summary_starred">Ditandai</string>
+  <string name="account_name_display_all">Semua akun</string>
+  <string name="account_out_of_quota">Akun telah melebihi kuota disket</string>
+  <string name="account_password_spaces_error">"Katakunci dimulai atau diakhiri dengan satu atau lebih karakter spasi. Beberapa server tidak mendukung penggunaan katakunci dengan spasi."</string>
   <string name="account_security_dialog_content_fmt">%s requires that you update your security settings.</string>
   <string name="account_security_dialog_title">Security update</string>
   <string name="account_security_policy_explanation_fmt">The server %s requires that you allow it to remotely control some security features of your Android device.</string>
