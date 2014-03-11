@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Jinshan Penjaga Keamaanan</string>
-  <string name="hello_world">Hello world!</string>
+  <string name="hello_world">Halo Dunia!</string>
   <string name="menu_settings">Pengaturan</string>
-  <string name="title_activity_main">MainActivity</string>
+  <string name="title_activity_main">Aktifitas Utama</string>
 </resources>
