@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Error pada informasi akun, silahkan login kembali.</string>
+  <string name="account_abnormal_state">Kesalahan pada informasi akun, silahkan login kembali.</string>
   <string name="all_resources">Semua</string>
   <string name="all_ringtone_resource">Semua</string>
   <string name="app_name">Tema</string>
@@ -23,17 +23,17 @@
   <string name="component_lockstyle_personal_title">Pengaturan</string>
   <string name="component_select_title">Komponen %1$s terpilih</string>
   <string name="component_settings_title">Kustomisasi tema</string>
-  <string name="description_author">Author:</string>
-  <string name="description_designer">Designer:</string>
-  <string name="description_download">Download:</string>
+  <string name="description_author">Pembuat:</string>
+  <string name="description_designer">Pendesain:</string>
+  <string name="description_download">Unduh:</string>
   <string name="description_size">Ukuran:</string>
-  <string name="description_summary">Summary:</string>
-  <string name="description_uploadtime">Update:</string>
+  <string name="description_summary">Simpulan:</string>
+  <string name="description_uploadtime">Perbarui:</string>
   <string name="description_version">Versi:</string>
   <string name="desktop_wallpaper">Desktop</string>
   <string name="download_failed">Download gagal!</string>
   <string name="download_preview_failed">Gagal memuat pratinjau</string>
-  <string name="download_success">Download complete!</string>
+  <string name="download_success">Berhasil mengunduh!</string>
   <string name="fail_to_add_account">Gagal menambah akun</string>
   <string name="live_wallpaper">Live wallpaper</string>
   <string name="loading">Memuat...</string>
@@ -41,7 +41,7 @@
   <string name="lockscreen_wallpaper">Kunci layar</string>
   <string name="lockstyle_personal_settings">Kustomisasi</string>
   <string name="long_ringtone_resource">Panjang</string>
-  <string name="menu_refresh">Refresh</string>
+  <string name="menu_refresh">Menyegarkan</string>
   <string name="mi_wallpaper">Wallpaper</string>
   <string name="mi_wallpaper_loading">Memuat Wallpaper...</string>
   <string name="mi_wallpaper_title">Wallpaper</string>
@@ -94,7 +94,7 @@
   <string name="resource_no_result">Tidak ada hasil</string>
   <string name="resource_notification_default">Pemberitahuan</string>
   <string name="resource_online">Online %1$s</string>
-  <string name="resource_preview">Preview</string>
+  <string name="resource_preview">Pratinjau</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Gratis</string>
   <string name="resource_price_unit">MI Credits</string>
@@ -108,7 +108,7 @@
   <string name="resource_title">Detail sumber</string>
   <string name="resource_title_select_ringtone">Pilih nada dering</string>
   <string name="resource_update">Update</string>
-  <string name="restore_default_theme_alert">You may be a victim of theme counterfeiting, please browse the theme market to purchase or re-download.</string>
+  <string name="restore_default_theme_alert">Anda mungkin adalah korban dari pemnbajakan tema, silahkan telusuri di pasar tema untuk membeli atau unduh lagi..</string>
   <string name="sdcard_status_changed_dialog_message">"Akan keluar. Silahkan buka kembali aplikasi ini untuk merefresh sumber."</string>
   <string name="sdcard_status_changed_dialog_title">Stauts SD card berubah</string>
   <string name="short_ringtone_resource">Pendek</string>
@@ -120,15 +120,15 @@
   <string name="theme_component_title_alarmstyle">Alarm style</string>
   <string name="theme_component_title_all">Tema</string>
   <string name="theme_component_title_audio_effect">Efek audio</string>
-  <string name="theme_component_title_boot_animation">Boot Animasi</string>
+  <string name="theme_component_title_boot_animation">Animasi Boot</string>
   <string name="theme_component_title_boot_audio">Boot audio</string>
   <string name="theme_component_title_clock">Jam</string>
-  <string name="theme_component_title_contact">Dialer</string>
-  <string name="theme_component_title_font">Font</string>
+  <string name="theme_component_title_contact">Pemanggil</string>
+  <string name="theme_component_title_font">Huruf</string>
   <string name="theme_component_title_framework">Framework</string>
-  <string name="theme_component_title_icon">Ikon</string>
+  <string name="theme_component_title_icon">Icon</string>
   <string name="theme_component_title_launcher">Beranda</string>
-  <string name="theme_component_title_lockstyle">Lock screen</string>
+  <string name="theme_component_title_lockstyle">Layar kunci</string>
   <string name="theme_component_title_lockwallpaper">Lock-wallpaper</string>
   <string name="theme_component_title_miwallpaper">Wallpaper</string>
   <string name="theme_component_title_mms">SMS</string>
@@ -140,7 +140,7 @@
   <string name="theme_component_title_wallpaper">Wallpaper</string>
   <string name="theme_description_title_customized">Custom</string>
   <string name="theme_description_title_default">Default</string>
-  <string name="theme_import_activity_label">Upgrade tema</string>
+  <string name="theme_import_activity_label">Perbarui tema</string>
   <string name="theme_import_data">Memulai. Silahkan tunggu...</string>
   <string name="theme_import_fail">Gagal mengimport %1$s tema</string>
   <string name="theme_import_from_sdcard">Import dari SD card</string>
