@@ -13,7 +13,7 @@
   <string name="delete">Hapus</string>
   <string name="delete_dialog_message">Apakah anda ingin menghapus rekaman ini?</string>
   <string name="deleting_message">Menghapus...</string>
-  <string name="dialog_content_storage_full">Due to lack of storage space, recording was forced to stop. Remove unnecessary files through the File Explorer, would you like to open it now?</string>
+  <string name="dialog_content_storage_full">Karena kurangnya ruang penyimpanan, rekaman terpaksa dihentikan. Hapus berkas yang tidak diperlukan melalui penjelajah berkas, apakah anda ingin membukanya sekarang?</string>
   <string name="dialog_play">Putar</string>
   <string name="dialog_send">Kirim</string>
   <string name="dialog_title_storage_full">Penyimpanan penuh</string>
@@ -22,20 +22,20 @@
   <string name="error_app_internal_title">Kesalahan pada perekam suara</string>
   <string name="error_mediadb_new_record">Gagal menyimpan audio terekam</string>
   <string name="error_sdcard_access">Gagal mengakses memori eksternal dan internal</string>
-  <string name="fm_record">Merekam Radio(%d)</string>
+  <string name="fm_record">Merekam FM(%d)</string>
   <string name="hour" formatted="false">%d jam(s)</string>
   <string name="insert_sd_card">Membutuhkan kartu memori</string>
-  <string name="low_battery_error">Baterai 5% tersisa, to ensure that the recording is not lost, rekaman telah dihentikan dan disimpan.</string>
+  <string name="low_battery_error">Baterai 5% tersisa, untuk memastikan bahwa rekaman tidak hilang, rekaman telah dihentikan dan disimpan.</string>
   <string name="low_battery_message_title">Baterai lemah</string>
-  <string name="low_battery_warning">Unexpected shutdown may result in lost recording, it is recommended to record only when battery is fully charged.</string>
-  <string name="mark_now">(Current)</string>
+  <string name="low_battery_warning">Menutup tak terduga dapat menyebabkan rekaman hilang, dianjurkan untuk merekam bila baterai terisi penuh.</string>
+  <string name="mark_now">(Saat ini)</string>
   <string name="max_length_reached">Batas maksimum tercapai</string>
   <string name="menu_settings">Pengaturan</string>
   <string name="menu_view_record_list">Lihat rekaman</string>
   <string name="minute" formatted="false">%d menit</string>
   <string name="no_file">Tidak ada rekaman</string>
-  <string name="notification_playback">Memutar kembali rekaman…</string>
-  <string name="notification_playback_paused">Memutar kembali dihentikan sejenak...</string>
+  <string name="notification_playback">Pemutaran rekaman…</string>
+  <string name="notification_playback_paused">Pemutaran dihentikan sejenak...</string>
   <string name="notification_recording">Merekam...</string>
   <string name="notification_stopped">Rekaman dihentikan</string>
   <string name="notification_warning" formatted="false">Memori rendah (tersisa %d menit)...</string>
@@ -44,12 +44,12 @@
   <string name="prefDefault_recordType">audio/3gpp</string>
   <string name="prefDialogTitle_recordType">Pilih tipe berkas</string>
   <string name="pref_summary_enable_high_quality">Berkas audio dengan kualitas tinggi akan berukuran lebih besar</string>
-  <string name="pref_summary_enable_sound_effect">Play sound effect when recording state is changed</string>
+  <string name="pref_summary_enable_sound_effect">Mainkan efek suara ketika aturan rekaman diubah</string>
   <string name="pref_title_enable_high_quality">Izinkan kualitas tinggi</string>
   <string name="pref_title_enable_sound_effect">Izinkan efek suara</string>
   <string name="pref_title_record_type">Tipe berkas rekaman</string>
-  <string name="preference_led_indicator">Indikator perekam ketika layar terkunci</string>
-  <string name="preference_led_indicator_prompt">Show LED and status bar indicators when recording and screen is locked</string>
+  <string name="preference_led_indicator">Indikator perekam disaat layar terkunci</string>
+  <string name="preference_led_indicator_prompt">Menampilkan indikator LED dan status bar disaat merekam dan layar terkunci</string>
   <string name="preferences_title">Pengaturan</string>
   <string name="record_list">Daftar rekaman</string>
   <string name="record_loading">Membuka rekaman, harap tunggu.</string>
@@ -61,13 +61,13 @@
   <string name="recording_stopped">Rekaman dihentikan</string>
   <string name="rename">Ubah nama</string>
   <string name="rename_dialog_title">Ubah nama rekaman</string>
-  <string name="rename_duplicate">Duplicate recording name, please re-enter:</string>
-  <string name="rename_illegal">Illegal recording name, please re-enter:</string>
+  <string name="rename_duplicate">Nama rekaman ganda, mohon masukkan kembali:</string>
+  <string name="rename_illegal">Nama rekaman tidak sah, mohon masukkan kembali:</string>
   <string name="sd_card_not_available">Kartu memori tidak tersedia</string>
   <string name="second" formatted="false">%d detik</string>
   <string name="send_to">Kirim ke</string>
   <string name="sound_recorder_settings">Pengaturan Perekam</string>
-  <string name="status_bar_anti_disturb">Telepon disenyapkan, atur volume untuk melanjutkan.</string>
+  <string name="status_bar_anti_disturb">Telepon disenyapkan, atur volume suara untuk melanjutkan.</string>
   <string name="status_bar_back">Sentuh untuk melanjutkan perekaman</string>
   <string name="status_bar_recording">Merekam...</string>
   <string name="status_bar_recording_back">Sentuh untuk melanjutkan perekaman</string>
