@@ -27,8 +27,8 @@
   <string name="anti_private_summary">Halangi dan blokir nomor privat atau nomor tidak jelas dan catat</string>
   <string name="anti_private_title">Blokir nomor privat</string>
   <string name="anti_stranger_summary">Saring kontak yang tidak ada dalam buku alamat</string>
-  <string name="anti_stranger_title">Mode anti-nomor asing</string>
-  <string name="app_name">Penjagaan</string>
+  <string name="anti_stranger_title">Mode anti nomor asing</string>
+  <string name="app_name">Keamanan</string>
   <string name="black_white_list_tab_title">Daftar</string>
   <string name="blacklist_tab_title">Daftar hitam</string>
   <string name="call_log_tab_title">Panggilan</string>
@@ -39,7 +39,7 @@
   <string name="clear_all_calllog">Hapus catatan panggilan</string>
   <string name="clear_all_mslog">Hapus catatan pesan</string>
   <string name="close_rule">Non aktifkan aturan</string>
-  <string name="confirm">Oke</string>
+  <string name="confirm">OK</string>
   <string name="confirm_clear_blacklist">Apakah anda yakin ingin menghapus daftar hitam?</string>
   <string name="confirm_clear_whitelist">Apakah anda yakin ingin menghapus daftar putih?</string>
   <string name="context_add_contact">Tambahkan ke kontak yang sudah ada</string>
@@ -47,16 +47,16 @@
   <string name="context_ms">Kirim pesan</string>
   <string name="context_new_contact">Kontak baru</string>
   <string name="custom_mark_category">kustom</string>
-  <string name="edit_blacklist">Edit catatan</string>
-  <string name="edit_whitelist">Edit catatan</string>
+  <string name="edit_blacklist">Ubah catatan</string>
+  <string name="edit_whitelist">Ubah catatan</string>
   <string name="emptylist_fwlog_call">Semua panggilan yang diblokir akan dicatat disini.</string>
   <string name="emptylist_fwlog_ms">Semua SMS dan MMS yang diblokir akan dicatat disini.</string>
-  <string name="enable_firewall">Aktifkan firewall</string>
+  <string name="enable_firewall">Aktifkan dinding api</string>
   <string name="firewall_action">Menahan operasi</string>
   <string name="firewall_log">Catatan DND</string>
   <string name="firewall_settings">Pengaturan DND</string>
   <string name="firewall_settings_tab_title">Saring</string>
-  <string name="fw_action_settings">Pengaturan firewall</string>
+  <string name="fw_action_settings">Pengaturan dinding api</string>
   <string name="fw_add_keyword">Tambahkan kata kunci ke pengawasan</string>
   <string name="fw_add_keyword_existing" formatted="false">Kata kunci: %s sudah ada</string>
   <string name="fw_add_list_title">Masukkan nomor telepon</string>
@@ -73,7 +73,7 @@
   <string name="fw_clear_all_keyword">Hapus semua kata kunci</string>
   <string name="fw_clear_blacklist">Hapus daftar hitam</string>
   <string name="fw_clear_whitelist">Hapus daftar putih</string>
-  <string name="fw_edit_keyword">Edit kata kunci</string>
+  <string name="fw_edit_keyword">Ubah kata kunci</string>
   <string name="fw_end_time">Akhiri waktu pemblokiran</string>
   <string name="fw_import_blacklist">Impor daftar hitam</string>
   <string name="fw_import_blacklist_confirm">%d nomor dipilih, impor ke daftar hitam?</string>
@@ -86,7 +86,7 @@
   <string name="fw_keyword_filter_summary">Saring pesan yang sesuai dengan kata kunci yang dipilih</string>
   <string name="fw_keyword_list">Daftar kata kunci</string>
   <string name="fw_keyword_list_hint">Kata kunci yang dimasukkan disini akan digunakan untuk memblokir pesan masuk</string>
-  <string name="fw_log_inf">Firewall</string>
+  <string name="fw_log_inf">Dinding Api</string>
   <string name="fw_menu_new_blacklist_title">Tambahkan ke daftar hitam</string>
   <string name="fw_menu_new_manual">Tambahkan nomor secara manual</string>
   <string name="fw_menu_new_whitelist_title">Tambahkan ke daftar putih</string>
@@ -98,7 +98,7 @@
   <string name="fw_ms_muted">Pesan didiamkan</string>
   <string name="fw_ms_rejected">Pesan ditolak</string>
   <string name="fw_no_effect">Mode penjagaan tidak aktif</string>
-  <string name="fw_notes_hint">Catatan (opsional)</string>
+  <string name="fw_notes_hint">Catatan (pilihan)</string>
   <string name="fw_notification_settings">Pengaturan pemberitahuan</string>
   <string name="fw_on">Mode penjagaan sedang berjalan</string>
   <string name="fw_period">Masukkan periode blokir</string>
@@ -112,17 +112,17 @@
   <string name="mark_number_dialog_maintitle">Tandai nomor yang tidak diketahui dan simpan</string>
   <string name="mark_number_dialog_subtitle">Diekmbangkan oleh Sogou</string>
   <string name="member_firewall_log" formatted="false">Diblokir: Nomor %d detail %d</string>
-  <string name="menu_edit">Edit</string>
+  <string name="menu_edit">Ubah</string>
   <string name="mms_log_tab_title">SMS</string>
   <string name="new_bw_list_button">Tambahkan kontak</string>
   <string name="no">Batal</string>
-  <string name="number_add_hint">Masukkan nomor ke daftar hitamEnter number to Blacklist</string>
+  <string name="number_add_hint">Masukkan nomor ke daftar hitam</string>
   <string name="opt_accept_whitelist">Diterima dari daftar putih</string>
   <string name="opt_reject_all">Tolak semua</string>
   <string name="opt_reject_blacklist">Tolak dari daftar hitam</string>
   <string name="opt_reject_blacklist_stranger">Tolak panggilan tidak dikenal</string>
   <string name="opt_reject_blacklist_stranger_summary">Panggilan akan ditolak dari daftar hitam tapi diizinkan dari daftar putih</string>
-  <string name="remove">Pindahkan</string>
+  <string name="remove">Hapus</string>
   <string name="remove_all_keywords">Apakah anda yakin untuk menghapus semua kata kunci?</string>
   <string name="remove_call_log">Hapus semua catatan panggilan?</string>
   <string name="remove_contact">Hapus kontak yang dipilih?</string>
@@ -131,11 +131,11 @@
   <string name="remove_keyword">Apakah anda yakin untuk menghapus kata kunci ini?</string>
   <string name="remove_sms">Hapus semua catatan pesan?</string>
   <string name="save_button">Simpan</string>
-  <string name="show_firewall_notification">Tampilkan pemberitahuan firewall</string>
+  <string name="show_firewall_notification">Tampilkan pemberitahuan dinding api</string>
   <string name="show_notification">Tampilkan pemberitahuan</string>
   <string name="smart_antispam">Nomor yang tidak dikenal terdeteksi</string>
   <string name="turn_on_smart_antispam_hint">Setelah diaktifkan, nomor akan diidentifikasi, penandaan akan membantu untuk menentukan panggilan palsu.</string>
-  <string name="turn_on_smart_antispam_summary_off">Query database nomor lokal</string>
+  <string name="turn_on_smart_antispam_summary_off">Permintaan basis data nomor lokal</string>
   <string name="turn_on_smart_antispam_summary_on">Hanya berfungsi pada Wi-Fi dan jaringan 3G</string>
   <string name="turn_on_smart_antispam_title">Identifikasi nomor tidak dikenal</string>
   <string name="whitelist_tab_title">Daftar putih</string>
