@@ -38,7 +38,7 @@
   <string name="add_xiaomi_account_warning">Mohon log mauk dulu ke akun Xiaomi</string>
   <string name="added_to_bookmarks">Ditambahkan ke penanda.</string>
   <string name="allow">Izinkan</string>
-  <string name="application_name">Penjelajah</string>
+  <string name="application_name">Penelusur</string>
   <string name="autofill_profile_editor_address_line_1">Baris alamat 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Alamat jalan, P.O. box, c/o</string>
   <string name="autofill_profile_editor_address_line_2">Baris alamat 2:</string>
@@ -57,8 +57,8 @@
   <string name="autofill_profile_editor_zip_code">Kode pos:</string>
   <string name="autofill_profile_successful_delete">Teks pengisian otomatsi dihapus.</string>
   <string name="autofill_profile_successful_save">Teks pengisian otomatis disimpan.</string>
-  <string name="autofill_setup_dialog_message">Penjelajah dapan secara otomatis melengkapi formulir web seperti ini. Apakah anda ingin mengatur teks pengisian otomatis?</string>
-  <string name="autofill_setup_dialog_negative_toast">Anda selalu dapat mengatur teks pengisian otomatis anda dari Penjelajah &gt; Pengaturan &gt; Layar utama.</string>
+  <string name="autofill_setup_dialog_message">Penelusur dapan secara otomatis melengkapi formulir web seperti ini. Apakah anda ingin mengatur teks pengisian otomatis?</string>
+  <string name="autofill_setup_dialog_negative_toast">Anda selalu dapat mengatur teks pengisian otomatis anda dari Penelusur &gt; Pengaturan &gt; Layar utama.</string>
   <string name="autologin_bar_error">"Tidak dapat masuk."</string>
   <string name="autologin_bar_hide_text">Sembunyi</string>
   <string name="autologin_bar_login_text">Masuk</string>
@@ -116,7 +116,7 @@
   <string name="contextmenu_sharelink">Bagi tautan</string>
   <string name="contextmenu_view_image">Tampilkan gambar</string>
   <string name="copy_page_url">Salin URL halaman</string>
-  <string name="crash_recovcery_message">Penjelajah keluar dengan tidak normal. Apakah anda ingin mengembalikannya seperti sesi sebelumnya?</string>
+  <string name="crash_recovcery_message">Penelusur keluar dengan tidak normal. Apakah anda ingin mengembalikannya seperti sesi sebelumnya?</string>
   <string name="create_shortcut_bookmark">Tambah pintas ke beranda</string>
   <string name="current_page">"dari "</string>
   <string name="defaultBookmarksUpButton">Penanda</string>
@@ -146,7 +146,7 @@
   <string name="error_console_eval_text_hint">Evaluasi JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript console</string>
   <string name="error_console_header_text_minimized">Tampilkan JavaScript console</string>
-  <string name="exit_browser_warning">Keluar penjelajah?</string>
+  <string name="exit_browser_warning">Keluar penelusur?</string>
   <string name="export_bookmark">Eksport penanda</string>
   <string name="export_bookmark_failure">Gagal untuk mengeksport penanda ke kartu SD!</string>
   <string name="export_bookmark_sucess">Eksport penanda ke karut SD berhasil!</string>
@@ -193,7 +193,7 @@
   <string name="import_bookmarks_wizard_next">Selanjutnya</string>
   <string name="import_bookmarks_wizard_previous">Sebelumnya</string>
   <string name="importing_favorite_files">Impor Data...</string>
-  <string name="in_incognito">Mode penyamaran sedang aktif, riwayat penjelajah akan dihapus.</string>
+  <string name="in_incognito">Mode penyamaran sedang aktif, riwayat penelusur akan dihapus.</string>
   <string name="instant_search_label">Google dengan Instant(Labs)</string>
   <string name="is_first_history_item">Adalah riwayat pertama</string>
   <string name="is_first_tab">Adalah tab pertama</string>
@@ -202,7 +202,7 @@
   <string name="is_page_bottom">Pada dasar halaman</string>
   <string name="is_page_top">Telah berada di atas halaman</string>
   <string name="js_engine_flags">Set JS flag</string>
-  <string name="loadSuspended">"Penjelajah tidak dapat memuat halaman ini karena tidak ada koneksi internet."</string>
+  <string name="loadSuspended">"Penelusur tidak dapat memuat halaman ini karena tidak ada koneksi internet."</string>
   <string name="loadSuspendedTitle">Tidak ada koneksi</string>
   <string name="loading_video">Memuat video…</string>
   <string name="local_bookmarks">Lokal</string>
@@ -265,7 +265,7 @@
   <string name="pref_content_search_engine_summary">Pilih mesin pencari</string>
   <string name="pref_content_title">Isi halaman</string>
   <string name="pref_data_preload_dialogtitle">Cari hasil pra memuat</string>
-  <string name="pref_data_preload_summary">Izinkan penjelajah untuk pra memuat hasil pencarian di belakang layar</string>
+  <string name="pref_data_preload_summary">Izinkan penelusur untuk pra memuat hasil pencarian di belakang layar</string>
   <string name="pref_data_preload_title">Pra memuat hasil pencarian</string>
   <string name="pref_data_title">Pengelolaan lebar pita</string>
   <string name="pref_default_text_encoding">Encoding teks</string>
@@ -288,7 +288,7 @@
   <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_viewport">Gunakan viewport lebar</string>
   <string name="pref_development_visual_indicator">Aktifkan Indikator Visual</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_summary">Cek untuk keluar penjelajah saat menutup tab terakhir di layar navigasi. Jangan dicek untuk menampilkan halaman utama</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_summary">Cek untuk keluar penelusur saat menutup tab terakhir di layar navigasi. Jangan dicek untuk menampilkan halaman utama</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Keluar saat menutup tab terakhir</string>
   <string name="pref_extras_reset_default">Reset ke awal</string>
   <string name="pref_extras_reset_default_dlg">Kembalikan ke pengaturan awal?</string>
@@ -320,7 +320,7 @@
   <string name="pref_lab_quick_controls_summary">Ayunkan jari dari ujung kiri atau kanan untuk membua pengendali cepat dan menyembunyikan aplikasi serta bar URL</string>
   <string name="pref_lab_title">Lab</string>
   <string name="pref_link_prefetch_dialogtitle">Pra memuat halaman web</string>
-  <string name="pref_link_prefetch_summary">Izinkan penjelajah untuk pra memuat halaman web yang ditautkan pada belakang layar</string>
+  <string name="pref_link_prefetch_summary">Izinkan penelusur untuk pra memuat halaman web yang ditautkan pada belakang layar</string>
   <string name="pref_link_prefetch_title">Pra memuat halaman web</string>
   <string name="pref_min_font_size">Ukuran huruf minimum</string>
   <string name="pref_min_font_size_value" formatted="false">%d pt</string>
@@ -329,7 +329,7 @@
   <string name="pref_privacy_clear_cache_summary">Hapus tembolok lokal dan basis data</string>
   <string name="pref_privacy_clear_cookies">Hapus semua data cookie</string>
   <string name="pref_privacy_clear_cookies_dlg">Hapus semua cookie?</string>
-  <string name="pref_privacy_clear_cookies_summary">Hapus semua cookie penjelajah</string>
+  <string name="pref_privacy_clear_cookies_summary">Hapus semua cookie penelusur</string>
   <string name="pref_privacy_clear_form_data">Hapus dari data</string>
   <string name="pref_privacy_clear_form_data_dlg">Hapus semua data formulir yang tersimpan?</string>
   <string name="pref_privacy_clear_form_data_summary">Hapus semua data formulir yang tersimpan</string>
@@ -337,8 +337,8 @@
   <string name="pref_privacy_clear_geolocation_access_dlg">Hapus lokasi mengakses situs web?</string>
   <string name="pref_privacy_clear_geolocation_access_summary">Hapus lokasi akses untuk semua situs web</string>
   <string name="pref_privacy_clear_history">Hapus riwayat</string>
-  <string name="pref_privacy_clear_history_dlg">Hapus riwayat navigasi penjelajah?</string>
-  <string name="pref_privacy_clear_history_summary">Hapus riwayat navigasi penjelajah</string>
+  <string name="pref_privacy_clear_history_dlg">Hapus riwayat navigasi penelusur?</string>
+  <string name="pref_privacy_clear_history_summary">Hapus riwayat navigasi penelusur</string>
   <string name="pref_privacy_clear_passwords">Hapus sandi</string>
   <string name="pref_privacy_clear_passwords_dlg">Hapus semua sandi yang disimpan?</string>
   <string name="pref_privacy_clear_passwords_summary">Hapus semua sandi yang tersimpan</string>
@@ -369,7 +369,7 @@
   <string name="pref_use_instant_search">Google Instant</string>
   <string name="pref_use_instant_search_summary">Gunakan Google Instant ketika anda menggunakan Google Search, untuk menampilkan hasil yang anda ketikkan (dapat meningkatkan penggunaan data).</string>
   <string name="pref_video_preload_dialogtitle">Pra memuat video...</string>
-  <string name="pref_video_preload_summary">Izinkan penjelajah untuk pra memuat video jika server mendukungnya</string>
+  <string name="pref_video_preload_summary">Izinkan penelusur untuk pra memuat video jika server mendukungnya</string>
   <string name="pref_video_preload_title">Pra memuat video</string>
   <string name="pref_video_preload_value_always">SELALU</string>
   <string name="pref_video_preload_value_never">TIDAK PERNAH</string>
@@ -382,7 +382,7 @@
   <string name="readmode_reach_last_page">Telah mencapai halaman terakhir</string>
   <string name="readmodelist_bookmarks_to_show">Daftar Bacaan</string>
   <string name="recover">Pemulihan</string>
-  <string name="recover_from_crash">Lanjutkan dengan sesi penjelajah terakhir</string>
+  <string name="recover_from_crash">Lanjutkan dengan sesi penelusur terakhir</string>
   <string name="reload">Segarkan kembali</string>
   <string name="remove">Hapus</string>
   <string name="remove_bookmark">Hapus penanda</string>
