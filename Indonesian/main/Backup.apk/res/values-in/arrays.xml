@@ -5,14 +5,14 @@
         <item>Semua program</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>Browser</item>
-        <item>File explorer</item>
-        <item>Gallery</item>
-        <item>Permission manager</item>
-        <item>Camera</item>
-        <item>Network assistant</item>
-        <item>Weather Storage</item>
-        <item>Weather</item>
+        <item>Penjelajah</item>
+        <item>Penjelajah berkas</item>
+        <item>Galeri</item>
+        <item>Pengelola izin</item>
+        <item>Kamera</item>
+        <item>Asisten jaringan</item>
+        <item>Penyedia cuaca</item>
+        <item>Cuaca</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Kontak</item>
