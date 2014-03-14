@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="advanced">Panel advance</string>
+  <string name="advanced">Papan lanjutan</string>
   <string name="app_name">Kalkulator</string>
-  <string name="basic">Panel dasar</string>
+  <string name="basic">Papan dasar</string>
   <string name="clear">C</string>
   <string name="clearDesc">Hapus</string>
   <string name="clear_history">Hapus riwayat</string>
   <string name="cos">cos</string>
-  <string name="cosDesc">cosine</string>
+  <string name="cosDesc">cosinus</string>
   <string name="cos_mathematical_value">cos</string>
-  <string name="del">DEL</string>
+  <string name="del">HAPUS</string>
   <string name="delDesc">hapus</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
