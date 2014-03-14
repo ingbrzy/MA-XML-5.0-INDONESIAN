@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Sinkronisasi XIAOMI</string>
-  <string name="find_device">Cari Peralatan</string>
+  <string name="find_device">Cari Perangkat</string>
   <string name="find_device_stop_noise">Tekan \"OK\" untuk menghentikan nada peringatan</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Sinkronisasi Photo mengurangi Biaya data</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Sinkronisasi Foto mengurangi Biaya data</string>
   <string name="pref_title_sync_contacts_title">Sinkronisasi Kontak</string>
-  <string name="pref_title_sync_display_photo_on_wifi_only">Gunakan Wi-fi untuk menampilkan photo</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Gunakan Wi-fi untuk menampilkan foto</string>
   <string name="sub_sync_item_sms_summary">Sinkronisasi Pesan dengan Wi-Fi mengurangi Biaya data</string>
   <string name="sub_sync_item_sms_title_wifi_only">Gunakan Wi-Fi untuk sinkronisasi pesan</string>
   <string name="sync_item_sms_summary">Pesan akan otomatis tersinkronisasi</string>
