@@ -34,20 +34,20 @@
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_three_days_later">3 hari menjelang hari Ultah (%3$s)</string>
-  <string name="birthday_notification_text_today">"Jangan lupa ucapan Ultah!"</string>
+  <string name="birthday_notification_text_three_days_later">3 hari menjelang hari Ulang tahun (%3$s)</string>
+  <string name="birthday_notification_text_today">"Jangan lupa ucapan Ulang tahun!"</string>
   <string name="birthday_notification_title_three_days_later">Ulang tahun "%1$s" akan tiba</string>
   <string name="birthday_notification_title_today">Ulang tahun "%1$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
-  <string name="calendar_refresh">Refresh</string>
+  <string name="calendar_refresh">Segarkan kembali</string>
   <string name="change_response_title">Ubah Tanggapan</string>
-  <string name="copy_db">Kirim  database</string>
-  <string name="copy_email">Copy alamat E-mail </string>
-  <string name="copy_number">Copy Nomor Telpon</string>
+  <string name="copy_db">Kirim  basis data</string>
+  <string name="copy_email">Salin alamat E-mail </string>
+  <string name="copy_number">Salin Nomor Telpon</string>
   <string name="create_an_account_desc">"Kalender lebih bagus menggunakan akun Google.
 
-• Diakses menggunakan berbagai broser
-• Back up Acara anda dengan aman"</string>
+• Diakses menggunakan berbagai penelusur
+• Cadangkan Acara anda dengan aman"</string>
   <string name="creating_event">Acara dibuat.</string>
   <string name="creating_event_with_guest">Undangan akan dikirim.</string>
   <string name="custom">"Kustom (tidak dapat melakukan kustom pada telepon)"</string>
@@ -68,27 +68,27 @@
   <string name="edit_event_all_day_label">Setiap hari</string>
   <string name="edit_event_calendar_label">Kalender</string>
   <string name="edit_event_from_label">Waktu mulai</string>
-  <string name="edit_event_label">Detil</string>
+  <string name="edit_event_label">Perincian</string>
   <string name="edit_event_show_all">Tampilkan semua</string>
   <string name="edit_event_to_label">Akhir waktu</string>
-  <string name="edit_label">Edit</string>
+  <string name="edit_label">Ubah</string>
   <string name="email_guests_label">E-mail Tamu</string>
   <string name="email_picker_label">E-mail dengan</string>
   <string name="email_subject_prefix">"Balas: "</string>
   <string name="empty_event">Acara yg kosong tidak dibuat.</string>
   <string name="event_create">Acara baru</string>
   <string name="event_delete">Hapus Acara</string>
-  <string name="event_edit">Edit Acara</string>
+  <string name="event_edit">Ubah Acara</string>
   <string name="event_info_organizer">Penyelenggara:</string>
   <string name="event_info_reminders_label">Pengingat</string>
   <string name="event_info_title">Lihat Acara</string>
   <string name="event_info_title_invite">Undangan Rapat</string>
   <string name="event_view">Lihat Acara</string>
-  <string name="every_weekday">Setiap hari kerja (Sen–Jum)</string>
+  <string name="every_weekday">Setiap hari kerja (Senin–Jumat)</string>
   <string name="gadget_no_events">Tidak ada acara dalam waktu dekat</string>
   <string name="gadget_title">Kalender</string>
   <string name="goto_today">Hari ini</string>
-  <string name="hide_controls">Sembunyikan kontrol</string>
+  <string name="hide_controls">Sembunyikan pengendali</string>
   <string name="hint_attendees">Tamu-tamu</string>
   <string name="hint_description">Deskripsi</string>
   <string name="hint_what">Nama Acara</string>
@@ -115,7 +115,7 @@
   <string name="more_string">%1$s lebih...</string>
   <string name="new_event_dialog_label">Acara baru</string>
   <string name="new_event_dialog_option">Acara baru</string>
-  <string name="no_calendars_found">Sebelum Anda dapat menambahkan suatu acara, Anda harus menambahkan setidaknya satu akun Kalender ke perangkat Anda dan membuat kalender terlihat. Sentuh Tambahkan Akun untuk menambah account (jika Anda baru saja menambahkan akun, tunggu sampai selesai sinkronisasi dan coba lagi). Atau sentuh Batalkan dan pastikan setidaknya satu kalender terlihat.</string>
+  <string name="no_calendars_found">Sebelum Anda dapat menambahkan suatu acara, Anda harus menambahkan setidaknya satu akun Kalender ke perangkat Anda dan membuat kalender terlihat. Sentuh Tambahkan Akun untuk menambah akun (jika Anda baru saja menambahkan akun, tunggu sampai selesai sinkronisasi dan coba lagi). Atau sentuh Batalkan dan pastikan setidaknya satu kalender terlihat.</string>
   <string name="no_syncable_calendars">Tidak ada kalender</string>
   <string name="no_title_label">(Tidak ada judul)</string>
   <string name="not_synced">Tidak tersinkronisasi</string>
@@ -151,12 +151,12 @@
   <string name="presence_label">Tampilkan sebagai</string>
   <string name="privacy_label">Pribadi</string>
   <string name="quick_response_custom_msg">Pesan khusus…</string>
-  <string name="quick_response_dialog_title">Pilih Tanggapan cepat</string>
+  <string name="quick_response_dialog_title">Pilih respon cepat</string>
   <string name="quick_response_email_failed">Gagal menemukan progam E-Mail</string>
-  <string name="quick_response_settings">Tanggap Cepat</string>
+  <string name="quick_response_settings">Respon Cepat</string>
   <string name="quick_response_settings_edit_title">Tanggap cepat</string>
-  <string name="quick_response_settings_summary">Edit tanggapan default ketika mengirim email tamu</string>
-  <string name="quick_response_settings_title">Edit tanggapan cepat</string>
+  <string name="quick_response_settings_summary">Ubah tanggapan default ketika mengirim email tamu</string>
+  <string name="quick_response_settings_title">Ubah tanggapan cepat</string>
   <string name="reminders_label">Tambah Pengingat</string>
   <string name="repeats_label">Berulang</string>
   <string name="response_maybe">Mungkin</string>
@@ -171,11 +171,11 @@
   <string name="select_synced_calendars_button">Kalender untuk disinkronkan</string>
   <string name="select_synced_calendars_title">Kalender untuk disinkronisasi</string>
   <string name="select_visible_calendars_title">Kalender untuk ditampilan</string>
-  <string name="show_controls">Tampilkan kontrol</string>
+  <string name="show_controls">Tampilkan pengendali</string>
   <string name="show_day_view">Tampilkan hari</string>
   <string name="show_newer_events">Sentuh untuk melihat acara setealah %1$s</string>
   <string name="show_older_events">Sentuh untuk melihat acara sebelum %1$s</string>
-  <string name="snooze_all_label">Snooze all</string>
+  <string name="snooze_all_label">Semua tidur sebentar</string>
   <string name="snooze_label">Tidur sebentar</string>
   <string name="synced">Tersinkronisasi</string>
   <string name="tardis">TARDIS</string>
