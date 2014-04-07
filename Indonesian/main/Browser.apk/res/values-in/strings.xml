@@ -362,8 +362,6 @@
   <string name="pref_set_homepage_to">Atur ke</string>
   <string name="pref_setting_title">Pengaturan halaman</string>
   <string name="pref_text_zoom">Ukuran teks</string>
-  <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">6</string>
   <string name="pref_ua_string">String agen pengguna</string>
   <string name="pref_ua_title">Pengelolaan agen pengguna</string>
   <string name="pref_use_instant_search">Google Instant</string>
@@ -371,9 +369,6 @@
   <string name="pref_video_preload_dialogtitle">Pra memuat video...</string>
   <string name="pref_video_preload_summary">Izinkan penelusur untuk pra memuat video jika server mendukungnya</string>
   <string name="pref_video_preload_title">Pra memuat video</string>
-  <string name="pref_video_preload_value_always">SELALU</string>
-  <string name="pref_video_preload_value_never">TIDAK PERNAH</string>
-  <string name="pref_video_preload_value_wifi_only">HANYA WIFI</string>
   <string name="pref_volume_key_enabled">Tombol suara</string>
   <string name="pref_volume_key_operation">Operasi untuk tombol suara</string>
   <string name="pref_zoom_on_double_tap">Menekan dua kali untuk Zoom</string>

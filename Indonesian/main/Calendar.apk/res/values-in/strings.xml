@@ -119,9 +119,6 @@
   <string name="no_syncable_calendars">Tidak ada kalender</string>
   <string name="no_title_label">(Tidak ada judul)</string>
   <string name="not_synced">Tidak tersinkronisasi</string>
-  <string name="prefDefault_alerts_vibrateWhen">Jangan</string>
-  <string name="prefDefault_alerts_vibrate_false">Jangan</string>
-  <string name="prefDefault_alerts_vibrate_true">Selalu</string>
   <string name="prefDialogTitle_vibrateWhen">Getar</string>
   <string name="preferences_about_title">Tentang</string>
   <string name="preferences_alerts_popup_title">Pengingat Pop-up</string>
