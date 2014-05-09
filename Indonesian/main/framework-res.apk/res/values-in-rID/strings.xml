@@ -78,9 +78,9 @@
     <string name="day_of_week_shortest_saturday">7</string>
     <string name="am">AM</string>
     <string name="pm">PM</string>
-    <string name="yesterday">Yesterday</string>
-    <string name="today">Today</string>
-    <string name="tomorrow">Tomorrow</string>
+    <string name="yesterday">Kemarin</string>
+    <string name="today">Hari ini</string>
+    <string name="tomorrow">Besok</string>
     <string name="hour_minute_24" formatted="false">%-k:%M</string>
     <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
