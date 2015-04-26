@@ -10,22 +10,22 @@
         <item>Hebrew</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Home only</item>
-        <item>Automatic</item>
+        <item>Hanya beranda</item>
+        <item>Otomatis</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY Off</item>
-        <item>TTY Full</item>
+        <item>TTY mati</item>
+        <item>TTY penuh</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
         <item>Normal</item>
-        <item>Long</item>
+        <item>Panjang</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
-        <item>Always</item>
-        <item>Only when silent</item>
-        <item>Never</item>
+        <item>Selalu</item>
+        <item>Hanya saat senyap</item>
+        <item>Tak pernah</item>
     </string-array>
 </resources>
