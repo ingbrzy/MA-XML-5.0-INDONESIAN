@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_set">
-        <item>Alarm set for less than 1 minute from now.</item>
-        <item>Alarm set for %1$s from now.</item>
-        <item>Alarm set for %2$s from now.</item>
-        <item>Alarm set for %1$s and %2$s from now.</item>
-        <item>Alarm set for %3$s from now.</item>
-        <item>Alarm set for %1$s and %3$s from now.</item>
-        <item>Alarm set for %2$s and %3$s from now.</item>
-        <item>Alarm set for %1$s, %2$s, and %3$s from now.</item>
+        <item>Alarm disetel kurang dari 1 menit dari sekarang.</item>
+        <item>Alarm disetel %1$s dari sekarang.</item>
+        <item>Alarm disetel %2$s dari sekarang.</item>
+        <item>Alarm disetel %1$s and %2$s dari sekarang.</item>
+        <item>Alarm disetel %3$s dari sekarang.</item>
+        <item>Alarm disetel %1$s and %3$s dari sekarang.</item>
+        <item>Alarm disetel %2$s and %3$s dari sekarang.</item>
+        <item>Alarm disetel %1$s, %2$s, and %3$s dari sekarang.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
+        <item>1 menit</item>
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>15 menit</item>
+        <item>20 menit</item>
+        <item>25 menit</item>
+        <item>30 menit</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Never</item>
-        <item>1 minute</item>
-        <item>5 minutes</item>
-        <item>10 minutes</item>
-        <item>15 minutes</item>
-        <item>20 minutes</item>
-        <item>25 minutes</item>
-        <item>30 minutes</item>
+        <item>Tak pernah</item>
+        <item>1 menit</item>
+        <item>5 menit</item>
+        <item>10 menit</item>
+        <item>15 menit</item>
+        <item>20 menit</item>
+        <item>25 menit</item>
+        <item>30 menit</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Do nothing</item>
-        <item>Snooze</item>
-        <item>Dismiss</item>
+        <item>Tak ada</item>
+        <item>Tunda</item>
+        <item>Matikan</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Alarm will sound in less than 1 minute</item>
-        <item>Alarm will sound in %1$s</item>
-        <item>Alarm will sound in %2$s</item>
-        <item>Alarm will sound in %1$s %2$s</item>
-        <item>Alarm will sound in %3$s</item>
-        <item>Alarm will sound in %1$s %3$s</item>
-        <item>Alarm will sound in %2$s %3$s</item>
-        <item>Alarm will sound in %1$s %2$s %3$s</item>
+        <item>Alarm berbunyi kurang dari 1 menit</item>
+        <item>Alarm berbunyi dalam %1$s</item>
+        <item>Alarm berbunyi dalam %2$s</item>
+        <item>Alarm berbunyi dalam %1$s %2$s</item>
+        <item>Alarm berbunyi dalam %3$s</item>
+        <item>Alarm berbunyi dalam %1$s %3$s</item>
+        <item>Alarm berbunyi dalam %2$s %3$s</item>
+        <item>Alarm berbunyi dalam %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="days">
-        <item>Yesterday</item>
-        <item>Today</item>
-        <item>Tomorrow</item>
+        <item>Kemarin</item>
+        <item>Hari ini</item>
+        <item>Besok</item>
     </string-array>
     <string-array name="alarm_repeat_type">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Work days</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Sekali</item>
+        <item>Harian</item>
+        <item>Hari kerja</item>
+        <item>Sen ke Jum</item>
+        <item>Kustom</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
-        <item>Once</item>
-        <item>Daily</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Sekali</item>
+        <item>Harian</item>
+        <item>Sen ke Jum</item>
+        <item>Kustom</item>
     </string-array>
 </resources>
