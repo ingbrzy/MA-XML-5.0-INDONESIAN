@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">Uninstall \"%1$s\" and %2$d other apps?</item>
-        <item quantity="one">Uninstall \"%s\"</item>
-        <item quantity="two">Uninstall \"%s\" and 1 other app?</item>
+        <item quantity="other">Mencopot \"%1$s\" dan %2$d aplikasi lain?</item>
+        <item quantity="one">Mencopot \"%s\"</item>
+        <item quantity="two">Mencopot \"%s\" dan 1 aplikasi lain?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ apps uninstalled</item>
-        <item quantity="one">App uninstalled</item>
+        <item quantity="other">%1$ aplikasi dicopot</item>
+        <item quantity="one">Aplikasi dicopot</item>
     </plurals>
     <plurals name="uninstall_result_failed">
-        <item quantity="other">"Couldn't uninstall \"%1$s\" and %2$d other apps"</item>
-        <item quantity="one">"Couldn't uninstall \"%s\""</item>
-        <item quantity="two">"Couldn't uninstall \"%s\" and 1 other app"</item>
+        <item quantity="other">"Tak dapat mencopot \"%1$s\" dan %2$d aplikasi lain"</item>
+        <item quantity="one">"Tak dapat mencopot \"%s\""</item>
+        <item quantity="two">"Tak dapat mencopot \"%s\" dan 1 aplikasi lain"</item>
     </plurals>
 </resources>
