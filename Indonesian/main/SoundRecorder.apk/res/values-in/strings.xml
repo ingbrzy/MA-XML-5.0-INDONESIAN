@@ -49,7 +49,7 @@
   <string name="pref_title_enable_sound_effect">Izinkan efek suara</string>
   <string name="pref_title_record_type">Tipe berkas rekaman</string>
   <string name="preference_led_indicator">Indikator perekam disaat layar terkunci</string>
-  <string name="preference_led_indicator_prompt">Menampilkan indikator LED dan status bar disaat merekam dan layar terkunci</string>
+  <string name="preference_led_indicator_prompt">Menampilkan indikator LED dan bilah status disaat merekam dan layar terkunci</string>
   <string name="preferences_title">Pengaturan</string>
   <string name="record_list">Daftar rekaman</string>
   <string name="record_loading">Membuka rekaman, harap tunggu.</string>
